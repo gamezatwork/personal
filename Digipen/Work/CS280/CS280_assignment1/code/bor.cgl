@@ -1,0 +1,29 @@
+Functions called:
+ strcpy (66 times)
+ delete[] (409831 times)
+ delete (10058 times)
+ printf (11277 times)
+ memchr (633 times)
+ sprintf (633 times)
+ memset (133272 times)
+ new[] (409831 times)
+ fflush (251 times)
+ fputc (12300 times)
+ mbtowc (4 times)
+ free (30 times)
+ _lsetlocale (12 times)
+ new (10067 times)
+ calloc (15 times)
+ strlen (1593 times)
+ realloc (1 times)
+ strdup (9 times)
+ malloc (5 times)
+ memcpy (57 times)
+Resource types used:
+ object array (409831 allocs, 409604 max)
+ object (10067 allocs, 10024 max)
+ memory block (30 allocs, 12 max)
+Modules used:
+ 00400000 09/18/2014 18:48:14
+ C:\Users\kam.z\Desktop\kam.z\Work\CS280\CS280_assignment1\code\bor.exe
+==========================================
